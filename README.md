@@ -1,4 +1,4 @@
-# harmaSUG-2019-Creating-Sharing-Shiny-Apps-Gadgets at PharmaSUG Philadelphia by Phil Bowsher & Kelly O'Briant on June 19, 2019
+# PharmaSUG-2019-Creating-Sharing-Shiny-Apps-Gadgets at PharmaSUG Philadelphia by Phil Bowsher & Kelly O'Briant on June 19, 2019
 
 Live Presentation is here:
 
